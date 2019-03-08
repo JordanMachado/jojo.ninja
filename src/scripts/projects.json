@@ -1,0 +1,134 @@
+{
+  "experiments":[
+    {
+      "id": "brainside",
+      "title": "Brainside",
+      "role":"Lead developer",
+      "client":"School project",
+      "tech":"vue.js / three.js",
+      "video":"assets/video/brainside.mp4",
+      "desc":"Brainside is a web platform gathering\ninteractive experiences taking users through\nthe creative thinking of contemporary artists.",
+      "btns":[
+        {
+          "label":"visit website",
+          "link":"http://brainside.jojo.ninja"
+        },
+        {
+          "label":"see case study",
+          "link":"http://brainside_io.jojo.ninja/"
+        }
+      ]
+    },
+    {
+      "id": "sonic",
+      "title": "Sonic",
+      "role":"Creative developer",
+      "client":"Goodboy / Sega / Facebook",
+      "tech":"pixi.js / physics / Facebook Instant API",
+      "video":"assets/video/sonic.mp4",
+      "desc":" Adaptation of the original game Sonic Jump\n to the messenger app.\n Including all the major features of this historical game.",
+      "btns":[
+        {
+          "label":"visit website",
+          "link":"https://www.facebook.com/instantgames/104011246993364/"
+        },
+        {
+          "label":"see case study",
+          "link":"https://www.goodboydigital.com/case-study/sonic-jump-facebook-instant-games"
+        }
+
+      ]
+    },
+    {
+      "id": "playtheworld",
+      "title": "Play the\nWorld",
+      "role":"Creative developer",
+      "client":"Stink studios / Google",
+      "tech":"streetview / three.js / vue.js",
+      "video":"assets/video/playtheworld.mp4",
+      "desc":"In partnership with Google Play,\nwe created a destination where users\ncan relive iconic movie moments in their real-life\nsurroundings with Play the World.",
+      "btns":[
+        {
+          "label":"see case study",
+          "link":"https://www.stinkstudios.com/work/play-the-world"
+        }
+      ]
+    },
+    {
+      "id": "lacoste",
+      "title": "Lacoste",
+      "role":"Creative developer",
+      "client":"Stink studios / Lacoste",
+      "tech":"vue.js / three.js",
+      "video":"assets/video/lacoste.mp4",
+      "desc":"The first 360 interactive lookbook launched\nby Lacoste in China.",
+      "btns":[
+        {
+          "label":"see case study",
+          "link":"https://www.stinkstudios.com/work/lacoste-f-w-outerwear-2015"
+        }
+      ]
+    },
+
+        {
+          "id": "creative",
+          "title": "Creative\nApp",
+          "role":"Creative developer",
+          "client":"Goodboy / BBC",
+          "tech":"pixi.js / custom 3d renderer",
+          "video":"assets/video/creative.mp4",
+          "desc":"This app contains a suite of mini games for kids\nto express their creativity with\ntheir favorites CBeebies.",
+          "btns":[
+
+            {
+              "label":"visit website",
+              "link":"https://www.bbc.co.uk/cbeebies/watch/cbeebies-get-creative-app"
+            },
+            {
+              "label":"see case study",
+              "link":"https://www.goodboydigital.com/case-study/cbeebies-get-creative-app"
+            }
+          ]
+        },
+
+    {
+      "id": "tooncup",
+      "title": "Toon Cup\n2016",
+      "role":"Creative developer",
+      "client":"Goodboy / Cartoon network",
+      "tech":"pixi.js / physics",
+      "video":"assets/video/tooncup.mp4",
+      "desc":"A Cartoon Network football game with all the characters\nof the brand available around the world.",
+      "btns":[
+        {
+          "label":"visit website",
+          "link":"https://tooncup.cartoonnetwork.co.uk/home/"
+        },
+        {
+          "label":"see case study",
+          "link":"https://www.goodboydigital.com/case-study/toon-cup-2017-2"
+        }
+      ]
+    },
+    {
+      "id": "worst-witch",
+      "title": "The Worst\nWitch",
+      "role":"Creative developer",
+      "client":"Goodboy / BBC",
+      "tech":"pixi.js / physics",
+      "video":"assets/video/ww.mp4",
+      "desc":"A magical journey as a witch in a 3D open world.",
+      "btns":[
+        {
+          "label":"visit website",
+          "link":"https://www.bbc.co.uk/cbbc/games/the-worst-witch-magic-adventure-game"
+        },
+        {
+          "label":"see case study",
+          "link":"https://www.goodboydigital.com/case-study/the-worst-witch-magic-adventure"
+        }
+      ]
+    }
+
+  ]
+}
