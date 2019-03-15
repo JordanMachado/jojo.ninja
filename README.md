@@ -2,4 +2,7 @@
 
 Dirty code
 
-## [http://jojo.ninja](http://jojo.ninja)
+![Alt text](http://jojo.ninja/assets/share.jpg "thumb")
+
+
+## [website](http://jojo.ninja)
